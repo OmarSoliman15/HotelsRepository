@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="974e1127-02aa-476f-a35e-3de75e388adb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1Xza9mNbrWZkzTfHtHsBt7ZqTvA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Service" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Service" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml.dist" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="974e1127-02aa-476f-a35e-3de75e388adb" name="Default Changelist" comment="" />
+      <created>1582051227956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582051227956</updated>
+      <workItem from="1582051229213" duration="6361000" />
+      <workItem from="1582059366297" duration="9818000" />
+      <workItem from="1582138209579" duration="5968000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="691" y="27" width="584" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582141760399">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="691" y="27" width="584" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582141760399" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582053756608">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1582053756608" />
+    <state x="784" y="366" width="409" height="373" key="NewPhpClassDialog" timestamp="1582052893253">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="784" y="366" width="409" height="373" key="NewPhpClassDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582052893253" />
+    <state x="657" y="198" width="672" height="676" key="search.everywhere.popup" timestamp="1582140279177">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="198" width="672" height="676" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1582140279177" />
+  </component>
+</project>
